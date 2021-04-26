@@ -8,4 +8,8 @@ function fibonacciNumber = fiboRecursive(n)
         count = count + 1;
         fibonacciNumber = fiboRecursive(n-2) + fiboRecursive(n-1);
     end
+<<<<<<< HEAD
 end%new comment haha
+=======
+end%comment
+>>>>>>> 85653de52908da460b82e22a8f9b8b69daba21ec
